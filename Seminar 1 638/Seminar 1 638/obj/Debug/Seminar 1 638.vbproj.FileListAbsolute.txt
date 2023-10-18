@@ -1,0 +1,24 @@
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\bin\Debug\Seminar 1 638.exe.config
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\bin\Debug\Seminar 1 638.exe
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\bin\Debug\Seminar 1 638.pdb
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\bin\Debug\Seminar 1 638.xml
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.vbproj.AssemblyReference.cache
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar_1_638.Form1.resources
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar_1_638.Resources.resources
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.vbproj.GenerateResource.cache
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.vbproj.CoreCompileInputs.cache
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.exe
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.xml
+C:\Users\profesor\Desktop\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.pdb
+D:\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.vbproj.AssemblyReference.cache
+D:\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar_1_638.Form1.resources
+D:\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar_1_638.Resources.resources
+D:\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.vbproj.GenerateResource.cache
+D:\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.vbproj.CoreCompileInputs.cache
+D:\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.exe
+D:\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.xml
+D:\Seminar 1 638\Seminar 1 638\obj\Debug\Seminar 1 638.pdb
+D:\Seminar 1 638\Seminar 1 638\bin\Debug\Seminar 1 638.exe.config
+D:\Seminar 1 638\Seminar 1 638\bin\Debug\Seminar 1 638.exe
+D:\Seminar 1 638\Seminar 1 638\bin\Debug\Seminar 1 638.pdb
+D:\Seminar 1 638\Seminar 1 638\bin\Debug\Seminar 1 638.xml
